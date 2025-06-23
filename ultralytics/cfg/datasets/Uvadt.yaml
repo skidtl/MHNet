@@ -1,0 +1,14 @@
+# dataset path
+path: D:/test/yolo/yolov8-8.2.0/datasets/UAVDT_COCO
+train: images/train2017/images
+val: images/val2017/images
+test: images/val2017/images
+
+# Classes
+names:
+  0: car
+  1: truck
+  2: bus
+
+# class names
+# names: ['car', 'truck', 'bus']
