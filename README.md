@@ -61,6 +61,8 @@ pip install ultralytics
 | ultralytics/cfg/models/MHNet.yaml |            Overall architecture of the MH network            |
 |      ultralytics/nn/modules/      | This folder contains various feature extraction modules used in the MHNet network. |
 
+------
+
 **Image Detection**
 
 Can be used directly in the command line to detect images.
@@ -68,3 +70,12 @@ Can be used directly in the command line to detect images.
 ```bash
 yolo predict model=MHNet.pt source='yourimage.png'
 ```
+
+------
+
+**Model Training**
+
+```
+python train.py
+```
+
