@@ -57,6 +57,9 @@ pip install ultralytics
 
 |              Script               |                         Description                          |
 | :-------------------------------: | :----------------------------------------------------------: |
+|             MHNet.pt              |        MHNet model weights trained using VisDrone2019        |
+|             train.py              |                     Model training files                     |
+|              val.py               |                       Model test file                        |
 |     ultralytics/cfg/datasets      |      Configuration files for storing different datasets      |
 | ultralytics/cfg/models/MHNet.yaml |            Overall architecture of the MH network            |
 |      ultralytics/nn/modules/      | This folder contains various feature extraction modules used in the MHNet network. |
