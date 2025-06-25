@@ -1,6 +1,6 @@
 # MHNet: Multi-scale Hierarchical Extraction Network for Small Object Detection in UAV Images
 
-**Submission ID:** 9496 
+**IEEE Latin America Transactions (Submission ID: 9496)** 
 
 **Authors:**
 
